@@ -7,12 +7,12 @@
 nothing :P
 
 
-....C
+```C
 
 #include <stdio.h>
 int main ()
 {
   printf("123\n");
 }
-...
-...
+```
+
