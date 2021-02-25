@@ -16,3 +16,10 @@ int main ()
 }
 ```
 
+```Processing
+void setup(){
+  background(255);
+  elliipse(200,200,30,30);
+}
+
+```
